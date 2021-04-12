@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "plyska do task",
+    "mongoUri": "mongodb+srv://plyska:193751320@cluster0.ufte6.mongodb.net/app?retryWrites=true&w=majority"
+}
